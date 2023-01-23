@@ -1,7 +1,5 @@
 # Steps:
  - Clone the Repo and import the `modules`.
- - Now Build and run the application.
- 
+ - Now Build and `Run` the application.
 
-
-![image](https://user-images.githubusercontent.com/72887609/214173278-5474f8c3-3ea0-49b4-a6db-a5cd5fc4edb9.png)
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/72887609/214174026-fe1a6070-4542-4e43-b72b-bfac48238a67.png">
