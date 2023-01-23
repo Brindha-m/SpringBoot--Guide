@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot--Guide.iml" filepath="$PROJECT_DIR$/SpringBoot--Guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../basicstudent/SpringBoot -- Basic REST APIs.iml" filepath="$PROJECT_DIR$/../basicstudent/SpringBoot -- Basic REST APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Login_Authentication--MongoDB/spring-boot-mongodb-login.iml" filepath="$PROJECT_DIR$/../Login_Authentication--MongoDB/spring-boot-mongodb-login.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-mongodb-login" />
+        <module name="SpringBoot -- Basic REST APIs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basicstudent (1)" target="17" />
+      <module name="basicstudent (2)" target="17" />
+      <module name="spring-boot-mongodb-login" target="9" />
+      <module name="SpringBoot -- Basic REST APIs" target="17" />
+      <module name="SpringBoot🍃 - Basic Start with this" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot - Basic Start with this" options="-parameters" />
+      <module name="SpringBoot -- Basic REST APIs" options="-parameters" />
+      <module name="basicstudent (1)" options="-parameters" />
+      <module name="basicstudent (2)" options="-parameters" />
+      <module name="spring-boot-mongodb-login" options="-parameters" />
+    </option>
+  </component>
+</project>
