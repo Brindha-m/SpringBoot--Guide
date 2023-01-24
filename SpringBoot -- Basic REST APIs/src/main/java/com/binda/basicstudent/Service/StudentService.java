@@ -35,6 +35,18 @@ public class StudentService {
         }
         studentRepository.deleteById((studentId));
     }
+    
+// --------  Alternative Delete methods.. so I'm writing as Employee model -----------
+    
+//     	public String delete(@PathVariable Long id) {
+// 		Optional<EmployeeModel> employeeObj = employeeRepo.findById(id);
+// 		if(employeeObj.isPresent()) {
+// 			employeeRepo.delete(employeeObj.get());
+// 			return "Employee deleted with id "+id;
+// 		}else {
+// 			throw new RuntimeException("Employee not found for id "+id);
+// 		}
+// 	}
 
 
 }
