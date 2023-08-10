@@ -4,7 +4,7 @@
 
 ## 🫡 Binda's View on Spring Boot Ebook.. Now available @Amazon Kindle 🫡 
 
-🔗 https://www.amazon.in/Bindas-View-Spring-Boot-attractive-ebook/dp/B0BSSGWHF8/ref=sr_1_7?keywords=spring+boot&qid=1674501278&s=digital-text&sr=1-7 🔗
+🔗 https://www.amazon.in/dp/B0BSSGWHF8 🔗
  
  
  
